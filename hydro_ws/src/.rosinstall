@@ -1,0 +1,21 @@
+- git: {local-name: hrl_kdl, uri: 'https://code.google.com/p/gt-ros-pkg.hrl-kdl',
+    version: hydro}
+- git: {local-name: industrial_core, uri: 'https://github.com/ros-industrial/industrial_core.git',
+    version: hydro-devel}
+- git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git',
+    version: hydro-devel}
+- git: {local-name: control_toolbox, uri: 'https://github.com/ros-controls/control_toolbox.git',
+    version: hydro-devel}
+- git: {local-name: realtime_tools, uri: 'https://github.com/ros-controls/realtime_tools.git',
+    version: hydro-devel}
+- git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git',
+    version: hydro-devel}
+- git: {local-name: universal_robot, uri: 'https://github.com/ros-industrial/universal_robot.git',
+    version: hydro-devel-c-api}
+- git: {local-name: robotiq, uri: 'https://github.com/gt-ros-pkg/robotiq.git', version: groovy-devel}
+- git: {local-name: ethercat_soem, uri: 'https://github.com/gt-ros-pkg/ethercat-soem.git',
+    version: hydro-devel}
+- git: {local-name: boost_numpy, uri: 'https://github.com/gt-ros-pkg/Boost.NumPy.git',
+    version: hydro-devel}
+- git: {local-name: rosdistro, uri: 'https://github.com/gt-ros-pkg/rosdistro.git',
+    version: master}

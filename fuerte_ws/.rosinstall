@@ -1,0 +1,1 @@
+- git: {local-name: rim_bmw_cpl, uri: 'https://github.com/gt-ros-pkg/cpl.git', version: rim_bmw}
