@@ -1,6 +1,6 @@
 - git: {local-name: hrl_kdl, uri: 'https://code.google.com/p/gt-ros-pkg.hrl-kdl',
     version: hydro}
-- git: {local-name: industrial_core, uri: 'https://github.com/ros-industrial/industrial_core.git',
+- git: {local-name: industrial_core, uri: 'https://github.com/gt-ros-pkg/industrial_core.git',
     version: hydro-devel}
 - git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git',
     version: hydro-devel}
