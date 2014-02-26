@@ -17,5 +17,7 @@
     version: hydro-devel}
 - git: {local-name: boost_numpy, uri: 'https://github.com/gt-ros-pkg/Boost.NumPy.git',
     version: hydro-devel}
+- git: {local-name: ur_kin_py, uri: 'https://github.com/gt-ros-pkg/ur_kin_py.git',
+    version: hydro-devel}
 - git: {local-name: rosdistro, uri: 'https://github.com/gt-ros-pkg/rosdistro.git',
     version: master}
