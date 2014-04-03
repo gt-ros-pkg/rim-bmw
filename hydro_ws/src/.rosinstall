@@ -21,3 +21,7 @@
     version: hydro-devel}
 - git: {local-name: rosdistro, uri: 'https://github.com/gt-ros-pkg/rosdistro.git',
     version: master}
+- git: {local-name: excel_util, uri: 'https://github.com/gt-ros-pkg/excel-util.git',
+    version: hydro}
+- git: {local-name: rim_bmw_experiments, uri: 'https://github.com/gt-ros-pkg/rim-bmw-experiments.git',
+    version: hydro}
