@@ -25,3 +25,5 @@
     version: hydro}
 - git: {local-name: rim_bmw_experiments, uri: 'https://github.com/gt-ros-pkg/rim-bmw-experiments.git',
     version: hydro}
+- git: {local-name: ar_track_alvar, uri: 'https://github.com/sniekum/ar_track_alvar.git',
+    version: hydro-devel}
