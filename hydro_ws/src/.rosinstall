@@ -11,7 +11,7 @@
 - git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git',
     version: hydro-devel}
 - git: {local-name: universal_robot, uri: 'https://github.com/gt-ros-pkg/universal_robot.git',
-    version: hydro-devel-c-api}
+    version: hydro-c-api-ur10-moveit}
 - git: {local-name: robotiq, uri: 'https://github.com/gt-ros-pkg/robotiq.git', version: groovy-devel}
 - git: {local-name: ethercat_soem, uri: 'https://github.com/gt-ros-pkg/ethercat-soem.git',
     version: hydro-devel}
