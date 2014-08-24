@@ -7,8 +7,8 @@
     version: hydro-devel}
 - git: {local-name: realtime_tools, uri: 'https://github.com/ros-controls/realtime_tools.git',
     version: hydro-devel}
-- git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git',
-    version: hydro-devel}
+- git: {local-name: ros_controllers, uri: 'https://github.com/gt-ros-pkg/ros_controllers.git',
+    version: jogging-ctrl}
 - git: {local-name: universal_robot, uri: 'https://github.com/gt-ros-pkg/universal_robot.git',
     version: hydro-c-api-ur10-moveit}
 - git: {local-name: robotiq, uri: 'https://github.com/gt-ros-pkg/robotiq.git', version: groovy-devel}
@@ -26,3 +26,4 @@
     version: hydro}
 - git: {local-name: ar_track_alvar, uri: 'https://github.com/sniekum/ar_track_alvar.git',
     version: hydro-devel}
+- git: {local-name: robot_model, uri: 'https://github.com/ros/robot_model.git', version: hydro-devel}
