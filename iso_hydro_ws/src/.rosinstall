@@ -1,3 +1,0 @@
-- git: {local-name: urdfdom_headers, uri: 'https://github.com/ros/urdfdom_headers.git',
-    version: master}
-- git: {local-name: urdfdom, uri: 'https://github.com/eacousineau/urdfdom.git', version: feature/issue-36}

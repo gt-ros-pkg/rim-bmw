@@ -26,6 +26,5 @@
     version: hydro}
 - git: {local-name: ar_track_alvar, uri: 'https://github.com/sniekum/ar_track_alvar.git',
     version: hydro-devel}
-- git: {local-name: robot_model, uri: 'https://github.com/ros/robot_model.git', version: hydro-devel}
 - git: {local-name: industrial_calibration, uri: 'https://github.com/drchrislewis/industrial_calibration.git',
     version: master}
